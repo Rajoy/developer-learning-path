@@ -1,4 +1,4 @@
-# develpoer-learning-path
+# developer-learning-path
 开发学习途径大集合
 
 ## 问答社区
