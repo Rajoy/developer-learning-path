@@ -52,5 +52,5 @@
 ### 英语
 * [沪江英语](http://www.hjenglish.com/) 应该都知道的
 * [可可英语](http://www.kekenet.com/)
-* [美国之音-OVA](http://www.51voa.com/)
+* [美国之音-VOA](http://www.51voa.com/)
 
