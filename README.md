@@ -17,15 +17,23 @@
 * [掘金](http://gold.xitu.io/welcome) 感觉比推酷搞的好饿
 * [推酷](http://www.tuicool.com/) 综合订阅
 
+### PHP
+ * [phphub](https://phphub.org/) 最活跃的PHP社区
+ * [PHP之道](http://laravel-china.github.io/php-the-right-way/) 学PHP，从读懂理解PHP之道开始
+ * [深入理解PHP内核](http://php-internals.com/) PHP内核分析
+ * [PHP扩展开发及内核应用](http://www.cunmou.com/phpbook/preface.md) 
+ 
+
 ### 互联网
 * [solidot](http://www.solidot.org/) 反正看就对了
 * [站长之家](http://www.chinaz.com/) 能在上面读到很多互联网公司成败的原因
 
 ## 知名博客
-* [风雪之隅](http://www.laruence.com/) 鸟哥-亚洲第一的程序员!!!
-* [月光博客](http://www.williamlong.info/)
+* [风雪之隅](http://www.laruence.com/) 鸟哥-亚一程
 * [SEO每日一贴](http://www.seozac.com/)
 * [阮一峰的网络日志](http://www.ruanyifeng.com/)
+* [岁寒](https://lvwenhan.com/)
+* [韩天峰](http://rango.swoole.com/)
 
 ## 在线学习
 
