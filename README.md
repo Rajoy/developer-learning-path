@@ -23,6 +23,11 @@
  * [深入理解PHP内核](http://php-internals.com/) PHP内核分析
  * [PHP扩展开发及内核应用](http://www.cunmou.com/phpbook/preface.md) 
  
+### 前端
+ * [前端乱炖](http://www.html-js.com/)
+ * [前端代码规范及最佳实践](http://coderlmn.github.io/code-standards/)
+ * [性能优化](https://developers.google.com/web/fundamentals/performance/?hl=zh-cn)
+ * [前端里](http://www.yyyweb.com/front)
 
 ### 互联网
 * [solidot](http://www.solidot.org/) 反正看就对了
