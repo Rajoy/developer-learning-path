@@ -1,4 +1,5 @@
- 
+**![关注我的公众号，一起学习](http://img.rajoy.me/blogweixin.jpg)**
+
 - [PHPSTORM][1]
   最好的PHP的集成开发环境，没有之一。不要跟我说内存的事。
 - VIM
@@ -20,10 +21,10 @@
 未完待续...
 
 
-  [1]: https://www.jetbrains.com/phpstorm/
-  [2]: https://www.vagrantup.com/
-  [3]: https://www.virtualbox.org/wiki/Downloads
-  [4]: https://chrome.google.com/webstore/detail/postman/fhbjgbiflinjbdggehcddcbncdddomop?hl=zh-CN
-  [5]: https://www.charlesproxy.com/
-  [6]: http://www.netsarang.com/products/xsh_overview.html
-  [7]: http://www.netsarang.com/products/xfp_overview.html
+[1]: https://www.jetbrains.com/phpstorm/
+[2]: https://www.vagrantup.com/
+[3]: https://www.virtualbox.org/wiki/Downloads
+[4]: https://chrome.google.com/webstore/detail/postman/fhbjgbiflinjbdggehcddcbncdddomop?hl=zh-CN
+[5]: https://www.charlesproxy.com/
+[6]: http://www.netsarang.com/products/xsh_overview.html
+[7]: http://www.netsarang.com/products/xfp_overview.html
