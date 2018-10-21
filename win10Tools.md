@@ -12,6 +12,18 @@
 一款极小的软件，可以实现windows10任务栏的透明、毛玻璃等效果。酷炫掉渣。效果展示一下：
 ![blur](https://files.charlesmilette.net/GbOX4b.png) ![transparent](https://files.charlesmilette.net/yX37Vc.png) ![acrylic](https://files.charlesmilette.net/MPaxeO.png)
 
+### [upupoo](http://www.upupoo.com/)
+
+最强大的动态壁纸软件，喜欢二次元绝对会喜欢上的。不过的确很费电脑性能，写代码跑着会更卡。效果直接进网站自己看吧。
+
+### [rainmeter](https://www.rainmeter.net/)
+
+小雨滴，可以让你的桌面，简直花里胡哨。不信你看：
+
+![](http://img.rajoy.me/blograin.jpg-large)
+
+我没用，因为我调整了缩放，rainmeter的样式就变的模糊，这个问题没解决。如果有谁解决了，可以给我留言。
+
 
 
 ## 效率工具
