@@ -1,13 +1,14 @@
 ## 前言
-很多开发说用了mac之后就用不会windows了，或者用了mac之后，对windows嗤之以鼻。我的感觉是windows恰恰是功能太丰富了，才会导致工作时候不容易专注。用了mac之后，再用window有一种返璞归真的感觉。而且现在微软越来越拥抱开源，跟linux系统的连接也越来越密切，相信未来也会面向开发越来越友好。
+很多开发说用了mac之后就用不会windows了，或者用了mac之后，对windows嗤之以鼻。我的感觉是windows恰恰是功能太丰富了，才会导致工作时候不容易专注。用了mac之后，再用window有一种返璞归真的感觉。而且现在微软越来越拥抱开源，跟linux系统的连接也越来越密切，相信未来也会面向开发越来越友好。推荐软件标准是：**简洁，美观，效率**。
+
 
 ## 美化
-### [TrafficMonitor:](https://github.com/zhongyang219/TrafficMonitor)
+### [TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor)
 第一困扰我的是，如何查看windows10的cpu使用率、内存使用率、网速等指标且不用360安全卫士。软件包2M不到。非常感人。效果展示一下：
 
 ![任务栏视图](https://raw.githubusercontent.com/zhongyang219/TrafficMonitor/master/Screenshots/taskbar.PNG)
 
-### [TranslucentTB：](https://github.com/TranslucentTB/TranslucentTB/)
+### [TranslucentTB](https://github.com/TranslucentTB/TranslucentTB/)
 
 一款极小的软件，可以实现windows10任务栏的透明、毛玻璃等效果。酷炫掉渣。效果展示一下：
 ![blur](https://files.charlesmilette.net/GbOX4b.png) ![transparent](https://files.charlesmilette.net/yX37Vc.png) ![acrylic](https://files.charlesmilette.net/MPaxeO.png)
@@ -48,6 +49,12 @@
 
 
 
+### [hourglass](https://chris.dziemborowicz.com/apps/hourglass/)
+
+一个window的简单计时器。介绍如它的表现一下简洁优雅。我经常用它来作为我编程的专注钟。效果：
+
+![](https://chris.dziemborowicz.com/images/apps/hourglass/screenshot-2@2x-5b4d3a44.png)
+
 ## 开发工具
 
 ### [conemu](https://conemu.github.io/)
@@ -62,6 +69,26 @@ window最强大和正宗的终端软件。特别是现在WSL系统的发展，�
 
 ![](https://oldj.github.io/SwitchHosts/images/capture.png)
 
+
+
+## 其他工具
+[typora](https://typora.io/)
+我想说的事，windows下最简洁最美的markdown工具。堪比mac的Ulysses。我都是用这个写博客的。简单、强大。效果：
+
+![](https://typora.io/img/new/inline.png)
+
+[picgo](https://github.com/Molunerfinn/PicGo)
+贼强
+PicGo在上传图片之后自动会将图片链接复制到你的剪贴板里，可选5种复制的链接格式。
+PicGo目前支持了
+- `微博图床` v1.0
+- `七牛图床` v1.0
+- `腾讯云COS v4\v5版本` v1.1 & v1.5.0
+- `又拍云` v1.2.0
+- `GitHub` v1.5.0
+- `SM.MS` v1.5.1
+- `阿里云OSS` v1.6.0
+- `Imgur` v1.6.0
 
 
 未完待续...
